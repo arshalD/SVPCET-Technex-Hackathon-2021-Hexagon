@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/app/static/css/main.ee0e4c16.chunk.css",
-    "main.js": "/app/static/js/main.65024c2f.chunk.js",
-    "main.js.map": "/app/static/js/main.65024c2f.chunk.js.map",
-    "runtime-main.js": "/app/static/js/runtime-main.c344f3a6.js",
-    "runtime-main.js.map": "/app/static/js/runtime-main.c344f3a6.js.map",
-    "static/js/2.9943ee26.chunk.js": "/app/static/js/2.9943ee26.chunk.js",
-    "static/js/2.9943ee26.chunk.js.map": "/app/static/js/2.9943ee26.chunk.js.map",
-    "static/js/3.5a875386.chunk.js": "/app/static/js/3.5a875386.chunk.js",
-    "static/js/3.5a875386.chunk.js.map": "/app/static/js/3.5a875386.chunk.js.map",
-    "index.html": "/app/index.html",
-    "static/css/main.ee0e4c16.chunk.css.map": "/app/static/css/main.ee0e4c16.chunk.css.map",
-    "static/js/2.9943ee26.chunk.js.LICENSE.txt": "/app/static/js/2.9943ee26.chunk.js.LICENSE.txt",
-    "static/media/loginPage.css": "/app/static/media/background.8a522e8c.jpg"
+    "main.css": "/SVPCET-Technex-Hackathon-2021-Hexagon/static/css/main.3f2df520.chunk.css",
+    "main.js": "/SVPCET-Technex-Hackathon-2021-Hexagon/static/js/main.65024c2f.chunk.js",
+    "main.js.map": "/SVPCET-Technex-Hackathon-2021-Hexagon/static/js/main.65024c2f.chunk.js.map",
+    "runtime-main.js": "/SVPCET-Technex-Hackathon-2021-Hexagon/static/js/runtime-main.003a4a66.js",
+    "runtime-main.js.map": "/SVPCET-Technex-Hackathon-2021-Hexagon/static/js/runtime-main.003a4a66.js.map",
+    "static/js/2.9943ee26.chunk.js": "/SVPCET-Technex-Hackathon-2021-Hexagon/static/js/2.9943ee26.chunk.js",
+    "static/js/2.9943ee26.chunk.js.map": "/SVPCET-Technex-Hackathon-2021-Hexagon/static/js/2.9943ee26.chunk.js.map",
+    "static/js/3.5a875386.chunk.js": "/SVPCET-Technex-Hackathon-2021-Hexagon/static/js/3.5a875386.chunk.js",
+    "static/js/3.5a875386.chunk.js.map": "/SVPCET-Technex-Hackathon-2021-Hexagon/static/js/3.5a875386.chunk.js.map",
+    "index.html": "/SVPCET-Technex-Hackathon-2021-Hexagon/index.html",
+    "static/css/main.3f2df520.chunk.css.map": "/SVPCET-Technex-Hackathon-2021-Hexagon/static/css/main.3f2df520.chunk.css.map",
+    "static/js/2.9943ee26.chunk.js.LICENSE.txt": "/SVPCET-Technex-Hackathon-2021-Hexagon/static/js/2.9943ee26.chunk.js.LICENSE.txt",
+    "static/media/loginPage.css": "/SVPCET-Technex-Hackathon-2021-Hexagon/static/media/background.8a522e8c.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c344f3a6.js",
+    "static/js/runtime-main.003a4a66.js",
     "static/js/2.9943ee26.chunk.js",
-    "static/css/main.ee0e4c16.chunk.css",
+    "static/css/main.3f2df520.chunk.css",
     "static/js/main.65024c2f.chunk.js"
   ]
 }
