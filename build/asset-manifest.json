@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/business-manager/static/css/main.6914bcdf.chunk.css",
-    "main.js": "/business-manager/static/js/main.6d9b484e.chunk.js",
-    "main.js.map": "/business-manager/static/js/main.6d9b484e.chunk.js.map",
-    "runtime-main.js": "/business-manager/static/js/runtime-main.888811ce.js",
-    "runtime-main.js.map": "/business-manager/static/js/runtime-main.888811ce.js.map",
-    "static/js/2.782b059c.chunk.js": "/business-manager/static/js/2.782b059c.chunk.js",
-    "static/js/2.782b059c.chunk.js.map": "/business-manager/static/js/2.782b059c.chunk.js.map",
-    "static/js/3.8015fa76.chunk.js": "/business-manager/static/js/3.8015fa76.chunk.js",
-    "static/js/3.8015fa76.chunk.js.map": "/business-manager/static/js/3.8015fa76.chunk.js.map",
+    "main.css": "/business-manager/static/css/main.3d46611a.chunk.css",
+    "main.js": "/business-manager/static/js/main.41b86ce7.chunk.js",
+    "main.js.map": "/business-manager/static/js/main.41b86ce7.chunk.js.map",
+    "runtime-main.js": "/business-manager/static/js/runtime-main.e80801d3.js",
+    "runtime-main.js.map": "/business-manager/static/js/runtime-main.e80801d3.js.map",
+    "static/js/2.9943ee26.chunk.js": "/business-manager/static/js/2.9943ee26.chunk.js",
+    "static/js/2.9943ee26.chunk.js.map": "/business-manager/static/js/2.9943ee26.chunk.js.map",
+    "static/js/3.5a875386.chunk.js": "/business-manager/static/js/3.5a875386.chunk.js",
+    "static/js/3.5a875386.chunk.js.map": "/business-manager/static/js/3.5a875386.chunk.js.map",
     "index.html": "/business-manager/index.html",
-    "static/css/main.6914bcdf.chunk.css.map": "/business-manager/static/css/main.6914bcdf.chunk.css.map",
-    "static/js/2.782b059c.chunk.js.LICENSE.txt": "/business-manager/static/js/2.782b059c.chunk.js.LICENSE.txt"
+    "static/css/main.3d46611a.chunk.css.map": "/business-manager/static/css/main.3d46611a.chunk.css.map",
+    "static/js/2.9943ee26.chunk.js.LICENSE.txt": "/business-manager/static/js/2.9943ee26.chunk.js.LICENSE.txt",
+    "static/media/loginPage.css": "/business-manager/static/media/background.8a522e8c.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.888811ce.js",
-    "static/js/2.782b059c.chunk.js",
-    "static/css/main.6914bcdf.chunk.css",
-    "static/js/main.6d9b484e.chunk.js"
+    "static/js/runtime-main.e80801d3.js",
+    "static/js/2.9943ee26.chunk.js",
+    "static/css/main.3d46611a.chunk.css",
+    "static/js/main.41b86ce7.chunk.js"
   ]
 }
